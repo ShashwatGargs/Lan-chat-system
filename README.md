@@ -131,14 +131,22 @@ LAN-Chat-System/
 ## 📸 Screenshots
 
 * Login / Register dialog
+  
 ![Login](screenshots/Login-1.png)
+
 ![Login](screenshots/Login-2.png)
+
 * Chat window
+* 
 ![Chat](screenshots/chat-box.png)
+
 ![Chat](screenshots/Messaging.png)
+
 * File transfer example
+* 
 ![Chat](screenshots/File-Transfer-1.png)
-![Chat](screenshots/File-Transfer-2.png)
+
+![Chat](screenshots/File-transfer-2.png)
 
 ---
 
